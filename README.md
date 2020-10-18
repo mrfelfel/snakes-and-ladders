@@ -1,7 +1,11 @@
-Look Ma! What I found! Snake :snake: and Ladder game. Not on board. On the web.
+# مارو پله
 
-Sharing my jQuery learning exercise from about 2 years back.
+این بازی رو من فورک کردم 
+جایزه ۱۰۰ هزار تومنی این هفته و اولین استریم جایزه دار 
 
-It's fun playing now as well. Play it here: https://rahuldhawani.github.io/snakes-and-ladders/
+اتصال این پروژه به رای کانکت / توسعش و ریسپانسیو کردن هست
+
+# من کیم ؟
+من دکتر فلفل هستم توسعه دهنده رای کانکت
 
 ![game_screenshot](https://raw.githubusercontent.com/rahuldhawani/snakes-and-ladders/master/screenshot.gif)
