@@ -1,7 +1,9 @@
-Look Ma! What I found! Snake :snake: and Ladder game. Not on board. On the web.
+# مارو پله 
 
-Sharing my jQuery learning exercise from about 2 years back.
+سلام من اینو فورک کردم تا انلاینش کنیم
 
-It's fun playing now as well. Play it here: https://rahuldhawani.github.io/snakes-and-ladders/
+# مسابقه
 
-![game_screenshot](https://raw.githubusercontent.com/rahuldhawani/snakes-and-ladders/master/screenshot.gif)
+مسابقه این هفته استریم با فلفل آنلاین کردن این بازی هست که به برندش ۱۰۰ هزار تومان هدیه داده میشه
+
+برای آنلاین کردنش باید از رای کانکت استفاده بشه
